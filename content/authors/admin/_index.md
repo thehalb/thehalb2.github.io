@@ -18,9 +18,6 @@ organizations:
   - name: University of Bern
     url: ''
 
-interests:
-  - teamwork
-
 education:
   - 10/2013 Dr. rer. nat. (Ph.D.) Psychology (Department of Psychology, Humboldt University Berlin)
   - 11/2009 Diplom (M.Sc., Dipl.-Psych) in Psychology (Department of Psychology, Humboldt University Berlin)
