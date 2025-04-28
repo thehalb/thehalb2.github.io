@@ -18,13 +18,9 @@ organizations:
   - name: University of Bern
     url: ''
 
-interests:
-  - teamwork
-
-
 education:
   - since 09/2023 M.Sc. in Psychology (University of Bern)
-  - 08/2024 - 01/2025 Exchange Semester (National Taiwan University)
+  - 08/2024 to 01/2025 Exchange Semester (National Taiwan University)
   - 08/2023 M.Sc. in Psychology (University of Graz)
 
 

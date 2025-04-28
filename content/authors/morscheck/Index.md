@@ -18,11 +18,8 @@ organizations:
   - name: University of Bern
     url: ''
 
-interests:
-  - teamwork
-
 education:
-  - since 10/2024 PhD Student in Psychology (University of Bern)
+  - since 2024 PhD Student in Psychology (University of Bern)
   - M.Sc. in Psychology (Georg-August-Universität Göttingen)
   - B.Sc. in Psychology (Georg-August-Universität Göttingen)
 
