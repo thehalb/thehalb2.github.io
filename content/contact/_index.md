@@ -1,6 +1,5 @@
 ---
 title: Contact
-type: landing
 
 sections:
   - block: markdown
@@ -15,6 +14,4 @@ sections:
         📞 [ +41 31 632 57 01 ](tel:+41316325701)  
         ✉️ [ juliane.kaemmer@unibe.ch ](mailto:juliane.kaemmer@unibe.ch)
 
-    design:
-      columns: "1"
 ---

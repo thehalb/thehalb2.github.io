@@ -1,11 +1,8 @@
 ---
 title: Diagnostic team decision making
-pager: false
 ---
 
-
 XX 
-
 
 **Scientific writings**
 
