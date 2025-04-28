@@ -18,15 +18,6 @@ organizations:
   - name: University of Bern
     url: ''
 
-interests:
-  - team decisions under uncertainty
-  - diagnostic quality
-
-education:
-  - 10/2013 Dr. rer. nat. (Ph.D.) Psychology (Department of Psychology, Humboldt University Berlin)
-  - 11/2009 Diplom (M.Sc., Dipl.-Psych) in Psychology (Department of Psychology, Humboldt University Berlin)
-  - 07/2004 Vordiplom (BA) in Psychology (Department of Psychology, Humboldt University Berlin)
-
 
 # Social/Academic Networking
 # For available icons, see: https://docs.hugoblox.com/getting-started/page-builder/#icons

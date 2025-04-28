@@ -19,15 +19,6 @@ organizations:
     url: ''
 
 
-interests:
-  - 
-
-education:
-  - since 09/2023 M.Sc. in Psychology (University of Bern)
-  - 08/2024 - 01/2025 Exchange Semester (National Taiwan University)
-  - 08/2023 M.Sc. in Psychology (University of Graz)
-
-
 # Social/Academic Networking
 # For available icons, see: https://docs.hugoblox.com/getting-started/page-builder/#icons
 #   For an email link, use "fas" icon pack, "envelope" icon, and a link in the

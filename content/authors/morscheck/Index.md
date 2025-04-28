@@ -19,14 +19,6 @@ organizations:
     url: ''
 
 
-interests:
-- 
-
-education:
-- since 10/2024 PhD Student in Psychology (University of Bern)
-- M.Sc. in Psychology (Georg-August-Universität Göttingen)
-- B.Sc. in Psychology (Georg-August-Universität Göttingen)
-
 # Social/Academic Networking
 # For available icons, see: https://docs.hugoblox.com/getting-started/page-builder/#icons
 #   For an email link, use "fas" icon pack, "envelope" icon, and a link in the
