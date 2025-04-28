@@ -8,7 +8,7 @@ first_name: Juliane
 last_name: Kämmer
 
 # Is this the primary user of the site?
-superuser: true
+superuser: false
 
 # Role/position
 role: SNSF Starting Grant Professor
@@ -17,6 +17,16 @@ role: SNSF Starting Grant Professor
 organizations:
   - name: University of Bern
     url: ''
+
+interests:
+  - 
+  - 
+  - 
+
+education:
+  - 10/2013 Dr. rer. nat. (Ph.D.) Psychology (Department of Psychology, Humboldt University Berlin)
+  - 11/2009 Diplom (M.Sc., Dipl.-Psych) in Psychology (Department of Psychology, Humboldt University Berlin)
+  - 07/2004 Vordiplom (BA) in Psychology (Department of Psychology, Humboldt University Berlin)
 
 
 # Social/Academic Networking
@@ -33,6 +43,9 @@ social:
   - icon: google-scholar
     icon_pack: ai
     link: 'https://scholar.google.de/citations?user=S56rRf8AAAAJ&hl=de'
+  - icon: cv
+    icon_pack: ai
+    link: files/cv-juliane.pdf
 
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.

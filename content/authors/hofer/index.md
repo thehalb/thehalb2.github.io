@@ -18,6 +18,13 @@ organizations:
   - name: University of Bern
     url: ''
 
+interests:
+  - 
+  - 
+  - 
+
+education:
+  - since 09/2021 B.Sc. in Social Anthropology (University of Bern)
 
 # Social/Academic Networking
 # For available icons, see: https://docs.hugoblox.com/getting-started/page-builder/#icons
