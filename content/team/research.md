@@ -1,5 +1,5 @@
 ---
-title: 'Research'
+title: Research
 type: landing
 
 design:
@@ -10,8 +10,8 @@ design:
 sections:
   - block: collection
     content:
-      title: Selected Projects
-      text: I enjoy making things. Here are a selection of projects that I have worked on over the years.
+      title: Research Projects
+      text: These are our current projects.
       filters:
         folders:
           - research
