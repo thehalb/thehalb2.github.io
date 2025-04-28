@@ -6,6 +6,8 @@ tags:
   - Hugo
   - Wowchemy
   - Markdown
+image:
+  filename: featured.png
 ---
 
 PyTorch is a Python package that provides tensor computation (like NumPy) with strong GPU acceleration.
