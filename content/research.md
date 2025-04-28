@@ -1,5 +1,6 @@
 ---
-title: Research
+title: 'Research'
+date: 2024-05-19
 type: landing
 
 design:
@@ -14,9 +15,9 @@ sections:
       text: These are our current projects.
       filters:
         folders:
-          - research
+          - project
     design:
       view: article-grid
-      fill_image: true
+      fill_image: false
       columns: 3
 ---
