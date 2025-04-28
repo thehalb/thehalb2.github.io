@@ -26,7 +26,7 @@ sections:
         country: Switzerland
         country_code: CH
 
-      autolink: true
+      autolink: false
 
     design:
       columns: "1"
