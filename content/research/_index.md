@@ -1,24 +1,29 @@
 ---
-title: Research
+title: 'Research'
+type: landing
 
+design:
+  # Section spacing
+  spacing: '5rem'
+
+# Page sections
 sections:
-  - block: features
+  - block: resume-projects
     content:
-      title: Our Projects
+      title: Selected Projects
+      text: I enjoy making things. Here are a selection of projects that I have worked on over the years.
+      # Upload project images to your `assets/media/` folder and reference the filename in the `image` option
       items:
-        - title: Project 1
-          content: Description for Project 1
-          image: media/projekt1.jpg
-          link: projekt1/
-        - title: Project 2
-          content: Description for Project 2
-          image: media/projekt2.jpg
-          link: projekt2/
-        - title: Project 3
-          content: Description for Project 3
-          image: media/projekt3.jpg
-          link: projekt3/
-    design:
-      columns: "3"
-
+        - title: Pandas
+          description: Flexible and powerful data analysis / manipulation library for Python, providing labeled data structures.
+          image: projekt1.jpg
+          url: https://github.com/pandas-dev/pandas
+        - title: scikit-learn
+          description: scikit-learn is a Python module for machine learning built on top of SciPy and is distributed under the 3-Clause BSD license.
+          image: projekt2.jpg
+          url: https://github.com/scikit-learn/scikit-learn
+        - title: PyTorch
+          description: PyTorch is a Python package that provides tensor computation (like NumPy) with strong GPU acceleration.
+          image: projekt3.jpg
+          url: https://github.com/pytorch/pytorch
 ---
