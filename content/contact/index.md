@@ -28,11 +28,6 @@ sections:
 
       autolink: true
 
-      form:
-        provider: netlify
-        netlify:
-          captcha: false
-
     design:
       columns: "1"
 ---

@@ -1,6 +1,7 @@
 ---
 # Display name
 title: Mara Hofer
+weight: 5
 
 # Full Name (for SEO)
 first_name: Mara
@@ -17,12 +18,11 @@ organizations:
   - name: University of Bern
     url: ''
 
-# Short bio (displayed in user profile at end of posts)
-bio: My research interests include ..
-
 interests:
   - 
 
+education:
+- since 09/2021 B.Sc. in Social Anthropology (University of Bern)
 
 # Social/Academic Networking
 # For available icons, see: https://docs.hugoblox.com/getting-started/page-builder/#icons
@@ -50,4 +50,4 @@ highlight_name: false
 user_groups:
   - Team members
 ---
-TEXT...
+Mara Hofer is a Research Assistant at the CoMind Lab. She is currently a Bachelor´s student at the University of Bern in Social Anthropology.

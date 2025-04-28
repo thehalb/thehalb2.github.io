@@ -1,6 +1,7 @@
 ---
 # Display name
 title: Theresa Halbritter
+weight: 4
 
 # Full Name (for SEO)
 first_name: Theresa
@@ -17,11 +18,14 @@ organizations:
   - name: University of Bern
     url: ''
 
-# Short bio (displayed in user profile at end of posts)
-bio: My research interests include ..
 
 interests:
   - 
+
+education:
+  - since 09/2023 M.Sc. in Psychology (University of Bern)
+  - 08/2024 - 01/2025 Exchange Semester (National Taiwan University)
+  - 08/2023 M.Sc. in Psychology (University of Graz)
 
 
 # Social/Academic Networking
@@ -50,4 +54,4 @@ highlight_name: false
 user_groups:
   - Team members
 ---
-TEXT...
+Theresa Halbritter is a Research Assistant at the CoMind Lab. She is currently a Master´s students at the University of Bern in Psychology.

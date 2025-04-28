@@ -1,6 +1,7 @@
 ---
 # Display name
 title: Juliane Kämmer
+weight: 1
 
 # Full Name (for SEO)
 first_name: Juliane
@@ -17,11 +18,15 @@ organizations:
   - name: University of Bern
     url: ''
 
-# Short bio (displayed in user profile at end of posts)
-bio: My research interests include ..
 
 interests:
-  - 
+  - team decisions under uncertainty
+  - diagnostic quality
+
+education:
+ - 10/2013 Dr. rer. nat. (Ph.D.) Psychology (Department of Psychology, Humboldt University Berlin)
+ - 11/2009 Diplom (M.Sc., Dipl.-Psych) in Psychology (Department of Psychology, Humboldt University Berlin)
+ - 07/2004 Vordiplom (BA) in Psychology (Department of Psychology, Humboldt University Berlin)
 
 
 # Social/Academic Networking
@@ -32,9 +37,9 @@ social:
   - icon: envelope
     icon_pack: fas
     link: 'mailto:juliane.kämmer@unibe.ch'
-  - icon: twitter
+  - icon: linkedin
     icon_pack: fab
-    link: ''
+    link: 'https://ch.linkedin.com/in/juliane-k%C3%A4mmer'
   - icon: google-scholar
     icon_pack: ai
     link: https://scholar.google.de/citations?user=S56rRf8AAAAJ&hl=de
@@ -57,6 +62,10 @@ user_groups:
   - Team members
 ---
 Juliane Kämmer is Assistant Professor at the Department of Emergency Medicine at the University of Bern funded by an SNSF Starting Grant. In her research on team decisions under uncertainty and diagnostic quality, she combines theories and methods from psychology, cognitive science and medical education research. Her research provides insights that aim to lead to better team decisions, such as in the form of better medical diagnoses.
-Juliane is the group leader of the CoMind Lab and co-leader of the Diagnostic Quality Lab and a member of the Virtual Inselspital Simulation Lab at the University of Bern. In addition to the Starting Grant funding, Juliane has received a Marie Skłodowska-Curie grant from the European Union´s Horizon 2020 research and innovation programme to study team decision making under uncertainty (No. 894536, “TeamUp”). She has also received funding as a co-applicant from the BeLEARN Association to develop an interprofessional team training in virtual reality.
+
+Juliane is the group leader of the CoMind Lab and co-leader of the [Diagnostic Quality Lab](http://www.notfallmedizin.insel.ch/de/lehre-und-forschung/forschungsschwerpunkte-und-gruppen/diagnosequalitaet/ag-diagnostic-decision-making) and a member of the [Virtual Inselspital Simulation Lab](https://visl.ch/) at the University of Bern. In addition to the Starting Grant funding, Juliane has received a [Marie Skłodowska-Curie](https://cordis.europa.eu/project/id/894536) grant from the European Union´s Horizon 2020 research and innovation programme to study team decision making under uncertainty (No. 894536, “TeamUp”). She has also received funding as a co-applicant from the [BeLEARN Association](https://belearn.swiss/projekt/inteam-interprofessionelles-teamtraining-in-virtual-reality/) to develop an interprofessional team training in virtual reality.
+
 She obtained her PhD in psychology from the Humboldt University in Berlin and the Max Planck Institute (MPI) for Human Development in 2013. Trained as a psychologist, she has taught and mentored students of various disciplines including psychology, medicine, nursing education and economy at various German universities and the MPI for Human Development. From 2020 until 2022, she conducted research as a Marie Skłodowska-Curie Fellow at the University of Bern. In 2023, she transitionally held the Chair of Social and Communication Psychology at the University of Göttingen, Germany.
+
+**Download:** [Full CV](cv-juliane.pdf), Publication list
 

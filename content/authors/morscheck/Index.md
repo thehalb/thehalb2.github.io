@@ -1,6 +1,7 @@
 ---
 # Display name
 title: Lara Morscheck
+weight: 3
 
 # Full Name (for SEO)
 first_name: Lara
@@ -17,12 +18,14 @@ organizations:
   - name: University of Bern
     url: ''
 
-# Short bio (displayed in user profile at end of posts)
-bio: My research interests include ..
 
 interests:
-  - 
+- 
 
+education:
+- since 10/2024 PhD Student in Psychology (University of Bern)
+- M.Sc. in Psychology (Georg-August-Universität Göttingen)
+- B.Sc. in Psychology (Georg-August-Universität Göttingen)
 
 # Social/Academic Networking
 # For available icons, see: https://docs.hugoblox.com/getting-started/page-builder/#icons

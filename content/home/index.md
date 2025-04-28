@@ -7,8 +7,6 @@ sections:
     content:
       title: |
         Welcome to the CoMind Lab 
-      image:
-        filename: welcome.jpg
       text: |
         Our research group studies decision making under uncertainty, such as in the emergency room, to provide a clearer understanding of how decision-making in medical diagnostics and other high-risk areas can be improved.
 
@@ -20,5 +18,25 @@ sections:
 
         The CoMind Lab is funded by the [Swiss National Science Foundation (SNSF)](https://snf.ch) with a Starting Grant to Prof. Dr. Juliane Kämmer (project number [TMSGI1_218047](https://data.snf.ch/grants/grant/218047)). The lab is part of the [Diagnostic Quality Lab](http://dxq.ch/) at the [Department of Emergency Medicine](https://notfallmedizin.insel.ch/de/lehre-und-forschung/forschungsschwerpunkte-und-gruppen/diagnostic-quality-lab) at the [University of Bern](https://unibe.ch), Switzerland.
 
-        For more details, see our [Research](/research/) page.
+        For more details, see our [Research]({{< relref "research" >}})) page.
+
+  - block: markdown
+    content:
+      title:
+      subtitle: ''
+      text:
+    design:
+      columns: '1'
+      background:
+        image: 
+          filename: landingpage.jpg
+          filters:
+            brightness: 1
+          parallax: false
+          position: center
+          size: cover
+          text_color_light: true
+      spacing:
+        padding: ['20px', '0', '20px', '0']
+      css_class: fullscreen
 ---

@@ -1,6 +1,7 @@
 ---
 # Display name
 title: Maike Isaac
+weight: 2
 
 # Full Name (for SEO)
 first_name: Maike
@@ -17,12 +18,14 @@ organizations:
   - name: University of Bern
     url: ''
 
-# Short bio (displayed in user profile at end of posts)
-bio: My research interests include ..
 
 interests:
   - 
 
+education:
+- 2024 PhD in Sociology (McGill University, Montréal)
+- LL.M. in International Human Rights and Humanitarian Law (European University Viadrina, Frankfurt Oder)
+- B.A. in Ethnology (Leipzig University)
 
 # Social/Academic Networking
 # For available icons, see: https://docs.hugoblox.com/getting-started/page-builder/#icons
@@ -32,12 +35,6 @@ social:
   - icon: envelope
     icon_pack: fas
     link: 'mailto:maike.isaac@unibe.ch'
-  - icon: twitter
-    icon_pack: fab
-    link: ''
-  - icon: google-scholar
-    icon_pack: ai
-    link: https://scholar.google.de/citations?user=S56rRf8AAAAJ&hl=de
 
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
