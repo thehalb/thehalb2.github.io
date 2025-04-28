@@ -19,9 +19,7 @@ organizations:
     url: ''
 
 interests:
-  - 
-  - 
-  - 
+  - teamwork
 
 education:
   - since 09/2021 B.Sc. in Social Anthropology (University of Bern)

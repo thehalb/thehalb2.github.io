@@ -19,9 +19,8 @@ organizations:
     url: ''
 
 interests:
-  - 
-  - 
-  - 
+  - teamwork
+
 
 education:
   - 10/2013 Dr. rer. nat. (Ph.D.) Psychology (Department of Psychology, Humboldt University Berlin)

@@ -19,9 +19,7 @@ organizations:
     url: ''
 
 interests:
-  - 
-  - 
-  - 
+  - teamwork
 
 education:
   - 2024 PhD in Sociology (McGill University, Montréal)

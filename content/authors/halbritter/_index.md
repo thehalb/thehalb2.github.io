@@ -19,9 +19,8 @@ organizations:
     url: ''
 
 interests:
-  - 
-  - 
-  - 
+  - teamwork
+
 
 education:
   - since 09/2023 M.Sc. in Psychology (University of Bern)
