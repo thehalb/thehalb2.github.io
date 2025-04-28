@@ -13,5 +13,4 @@ sections:
         Switzerland  
         📞 [ +41 31 632 57 01 ](tel:+41316325701)  
         ✉️ [ juliane.kaemmer@unibe.ch ](mailto:juliane.kaemmer@unibe.ch)
-
 ---
