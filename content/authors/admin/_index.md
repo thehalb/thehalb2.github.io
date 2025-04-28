@@ -66,5 +66,5 @@ Juliane is the group leader of the CoMind Lab and co-leader of the [Diagnostic Q
 
 She obtained her PhD in psychology from the Humboldt University in Berlin and the Max Planck Institute (MPI) for Human Development in 2013. Trained as a psychologist, she has taught and mentored students of various disciplines including psychology, medicine, nursing education and economy at various German universities and the MPI for Human Development. From 2020 until 2022, she conducted research as a Marie Skłodowska-Curie Fellow at the University of Bern. In 2023, she transitionally held the Chair of Social and Communication Psychology at the University of Göttingen, Germany.
 
-**Download** [Full CV](cv-juliane.pdf), Publication list
+**Download** Full CV, Publication list
 
