@@ -23,9 +23,9 @@ interests:
   - 
 
 education:
-- 2024 PhD in Sociology (McGill University, Montréal)
-- LL.M. in International Human Rights and Humanitarian Law (European University Viadrina, Frankfurt Oder)
-- B.A. in Ethnology (Leipzig University)
+    - 2024 PhD in Sociology (McGill University, Montréal)
+    - LL.M. in International Human Rights and Humanitarian Law (European University Viadrina, Frankfurt Oder)
+    - B.A. in Ethnology (Leipzig University)
 
 # Social/Academic Networking
 # For available icons, see: https://docs.hugoblox.com/getting-started/page-builder/#icons
