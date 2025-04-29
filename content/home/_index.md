@@ -13,5 +13,5 @@ We rely on a wide array of methods, ranging from behavioral experiments, simulat
 
 The CoMind Lab is funded by the [Swiss National Science Foundation (SNSF)](https://snf.ch) with a Starting Grant to Prof. Dr. Juliane Kämmer (project number [TMSGI1_218047](https://data.snf.ch/grants/grant/218047)). The lab is part of the [Diagnostic Quality Lab](http://dxq.ch/) at the [Department of Emergency Medicine](https://notfallmedizin.insel.ch/de/lehre-und-forschung/forschungsschwerpunkte-und-gruppen/diagnostic-quality-lab) at the [University of Bern](https://unibe.ch), Switzerland.
 
-For more details, see our [Research]({{< relref "/research" >}})) page.
+For more details, see our [Research]({{< relref "/research" >}}) page.
     
