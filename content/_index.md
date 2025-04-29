@@ -34,7 +34,7 @@ sections:
       title:
       subtitle:
       text: |
-       lala
+        {{% cta cta_link="./team/" cta_text="Meet the team →" %}}
     design:
       columns: '1'
 ---
