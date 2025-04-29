@@ -13,21 +13,20 @@ sections:
       text: | 
         At the **CoMind Lab**, we study how people make diagnostic decisions under uncertainty, especially in high-stakes settings like the emergency room, to better understand and improve collaborative decision-making in medicine and beyond.
     appearance:
-      font_size: M
+      font_size: S
 
-  
-  - block: collection
+
+  - block: markdown
     content:
       title: Latest Publication
-      text: ""
-      count: 5
+      count: 1
       filters:
         folders:
-          - research
-        publication_type: 'kammer-collaboration-2024'
+          - publication
     design:
       view: citation
       columns: '1'
+
 
   - block: markdown
     content:

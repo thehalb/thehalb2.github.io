@@ -1,11 +1,11 @@
 ---
-title: "Contact"
-layout: page
+title: Contact
+layout: landing
 
 sections:
   - block: markdown
     content:
-      title: "Contact"
+      title: Contact
       text: |
         **Prof. Dr. Juliane Kämmer**  
         Universitätsklinik für Notfallmedizin  
