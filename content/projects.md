@@ -1,5 +1,5 @@
 ---
-title: 'Research'
+title: 'Projects'
 date: 2024-05-19
 type: landing
 
@@ -11,8 +11,8 @@ design:
 sections:
   - block: collection
     content:
-      title: Research Projects
-      text: These are our current projects.
+      title: Selected Projects
+      text: I enjoy making things. Here are a selection of projects that I have worked on over the years.
       filters:
         folders:
           - project
