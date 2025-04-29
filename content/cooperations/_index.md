@@ -3,7 +3,7 @@ title: Cooperations
 pager: false
 ---
 
-**National Collaboration**  
+**National collaborations**  
 
 - Prof. Dr. [Wolf Hautz](https://notfallmedizin.insel.ch/de/ueber-uns/details/person/detail/wolf-hautz-mme) 
 
