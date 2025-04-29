@@ -8,8 +8,8 @@ main:
   - name: Home
     url: home
     weight: 10
-  - name: Projects
-    url: projects
+  - name: Research
+    url: research
     weight: 20
   - name: Publications
     url: publications
@@ -29,7 +29,5 @@ main:
   - name: Contact
     url: contact
     weight: 80
-  - name: Teaching
-    url: teaching
-    weight: 90
+
 
