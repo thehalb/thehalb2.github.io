@@ -1,5 +1,6 @@
 ---
 title: Human-AI collaboration
+showDate: false
 ---
 
 text

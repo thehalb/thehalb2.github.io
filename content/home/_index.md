@@ -3,12 +3,12 @@ title: Home
 type: landing
 
 sections:
-  - block: hero
+  - block: markdown
     content:
       title: |
         Welcome to the CoMind Lab 
       text: |
-        Our research group studies decision making under uncertainty, such as in the emergency room, to provide a clearer understanding of how decision-making in medical diagnostics and other high-risk areas can be improved.
+        Our research group studies **decision making under uncertainty**, such as in the emergency room, to provide a clearer understanding of how decision-making in medical diagnostics and other high-risk areas can be improved.
 
         Incorrect medical diagnoses are unfortunately common, and some of them can have serious consequences for patients. However, there is limited understanding of the circumstances under which such errors occur and of how effective collaboration within the diagnostic team can help prevent them.
 

@@ -1,10 +1,11 @@
 ---
-title: Contact
+title: "Contact"
+layout: page
 
 sections:
   - block: markdown
     content:
-      title: Contact
+      title: "Contact"
       text: |
         **Prof. Dr. Juliane Kämmer**  
         Universitätsklinik für Notfallmedizin  
@@ -14,3 +15,4 @@ sections:
         📞 [ +41 31 632 57 01 ](tel:+41316325701)  
         ✉️ [ juliane.kaemmer@unibe.ch ](mailto:juliane.kaemmer@unibe.ch)
 ---
+

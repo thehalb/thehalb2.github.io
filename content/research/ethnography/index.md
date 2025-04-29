@@ -1,5 +1,6 @@
 ---
 title: Ethnography
+showDate: false
 ---
 
 text
