@@ -1,6 +1,8 @@
 ---
 title: Research Topics
 
+showDate: false
+
 # Listing view
 view: compact
 
@@ -12,3 +14,5 @@ banner:
 
 Explore how our lab investigates the psychology of decision-making, collaboration, and clinical reasoning.  
 Click on a topic to learn more about the work we’re doing.
+
+
