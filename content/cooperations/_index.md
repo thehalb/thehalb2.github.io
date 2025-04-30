@@ -23,10 +23,10 @@ pager: false
 
 - Prof. Dr. [Wolfgang Gaissmaier](https://spds.uni-konstanz.de/en/prof-wolfgang-gaissmaier) (University of Konstanz)
 
-- Prof. Dr. [Olga Kunina-Habenicht](https://pd.reha.tu-dortmund.de/fachgebiet/team/personeninfos/olga-kunina-habenicht/) (TU Dortmund University)  
+- Prof. Dr. [Olga Kunina-Habenicht](https://pd.reha.tu-dortmund.de/fachgebiet/team/personeninfos/olga-kunina-habenicht/) (TU Dortmund)  
 
 - Prof. Dr. [Stefan Schauber](https://www.med.uio.no/english/people/adm/fac/help/stefanks/) (University of Oslo)  
 
 - Dr. [Stefan Herzog](https://www.mpib-berlin.mpg.de/staff/stefan-herzog) and Dr. [Ralf Kurvers](https://www.mpib-berlin.mpg.de/mitarbeiter/ralf-kurvers) (Max Planck Institute for Human Development)  
 
-- Prof. Dr. [Markus Feufel](https://www.tu.berlin/vcard/markus.feufel/21784) (Technische Universität Berlin)
+- Prof. Dr. [Markus Feufel](https://www.tu.berlin/vcard/markus.feufel/21784) (TU Berlin)
