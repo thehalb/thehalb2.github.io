@@ -6,6 +6,7 @@ pager: false
 **Prof. Dr. Juliane Kämmer**
 
 [CoMind Lab](https://notfallmedizin.insel.ch/de/lehre-und-forschung/forschungsschwerpunkte-und-gruppen/diagnostic-quality-lab/comind)
+
 [Universitätsklinik für Notfallmedizin](https://notfallmedizin.insel.ch/de/lehre-und-forschung/forschungsschwerpunkte-und-gruppen)  
 Rosenbühlgasse 27  
 3010 Bern  
