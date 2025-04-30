@@ -9,11 +9,11 @@ pager: false
 
 - Prof. Dr. [Thomas Sauter](https://notfallmedizin.insel.ch/de/ueber-uns/details)  
 
-- PD Dr. [Tanja Birrenbach](https://notfallmedizin.insel.ch/fileadmin/Notfallzentrum/PDF_Dokumente/CVs/CV_Birrenbach_Tanja_03.12.2022.pdf)  
+- PD Dr. [Tanja Birrenbach](https://notfallmedizin.insel.ch/de/lehre-und-forschung/forschungsschwerpunkte-und-gruppen/telemedizin-und-e-health/ag-virtual-reality)  
 
 - Prof. Dr. [Tanja Manser](https://www.fhnw.ch/de/personen/tanja-manser) (FHNW)  
 
-- Dr. Nadine [Bienefeld-Seall](https://mtec.ethz.ch/people/person-detail.nadinebienefeld.html) (ETH Zürich)
+- Dr. [Nadine Bienefeld-Seall](https://mtec.ethz.ch/people/person-detail.nadinebienefeld.html) (ETH Zürich)
 
 **International collaborations**  
 

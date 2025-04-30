@@ -6,7 +6,7 @@
 main:
   - main:
   - name: Home
-    url: home
+    url: /
     weight: 10
   - name: Research
     url: research

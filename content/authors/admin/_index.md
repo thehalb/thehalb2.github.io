@@ -28,13 +28,13 @@ social:
     link: 'mailto:juliane.kämmer@unibe.ch'
   - icon: linkedin
     icon_pack: fab
-    link: ''
+    link: 'https://www.linkedin.com/in/juliane-k%C3%A4mmer-4926b81b3/'
   - icon: google-scholar
     icon_pack: ai
     link: 'https://scholar.google.de/citations?user=S56rRf8AAAAJ&hl=de'
   - icon: cv
     icon_pack: ai
-    link: files/cv-juliane.pdf
+    link: 'files/cv-juliane.pdf'
 
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
