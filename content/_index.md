@@ -10,7 +10,8 @@ sections:
         Welcome to the CoMind Lab!
       image:
         filename: landingpage.jpg
-      text: | 
+      text: |
+        
         Our research group studies **decision making under uncertainty**, such as in the emergency room, to provide a clearer understanding of how decision-making in medical diagnostics and other high-risk areas can be improved.
     appearance:
       font_size: S

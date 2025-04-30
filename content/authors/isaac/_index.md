@@ -18,6 +18,19 @@ organizations:
   - name: University of Bern
     url: ''
 
+interests:
+  - Identity-based workplace dynamics
+  - Gender, race, migration status
+  - International care migration
+
+education:
+  courses:
+    - course: PhD in Sociology
+      institution: McGill University, Montréal, Canada
+    - course: LL.M. International Human Rights and Humanitarian Law
+      institution: European University Viadrina, Frankfurt (Oder), Germany
+    - course: B.A. Ethnology
+      institution: Leipzig University, Germany
 
 # Social/Academic Networking
 # For available icons, see: https://docs.hugoblox.com/getting-started/page-builder/#icons
@@ -46,4 +59,8 @@ highlight_name: false
 user_groups:
   - Team members
 ---
-Maike Isaac joined the CoMind lab as the Postdoctoral ethnographic researcher. She earned her PhD from the Department of Sociology at McGill University in Montréal, Canada, in 2024. Maike is a passionate ethnographer, focusing on gender, race, and migrant status and how these (ascribed) identity markers intersect and manifest in team dynamics in healthcare settings. For her PhD, she studied ethnographically how migrant men from West Asia and Africa are recruited and trained as elder care workers in Germany. She explored how their public image as supposedly hypermasculine and “dangerous” men affects their work experience, relationships with colleagues, and positions within their teams. During her doctoral studies, Maike was a fellow at the Max-Planck-Institute for the Study of Religious and Ethnic Diversity, where she joined an international team of ethnographers studying care work, migration, and ageing. Her research has been supported by the Fonds de Recherche du Québec, the Jean Monnet Centre Montréal, and the Waterloo Centre for German Studies at the University of Waterloo, Canada. Prior to her PhD studies, Maike studied International Human Rights and Humanitarian Law (LL.M.) at European University Viadrina in Frankfurt (Oder) and Ethnology (B.A.) at Leipzig University. From 2016 to 2018, she worked as the Education Specialist for Gender Equity and Sexual Violence Prevention at Harvard University. From 2021 to 2022, she supported the Equity Officer at the South Westphalia University of Applied Sciences.
+Maike Isaac leads the ethnographic study on team processes in emergency medicine as a postdoctoral researcher. She earned her PhD in 2024 from the Department of Sociology at McGill University in Montreal, Canada. Maike is a passionate ethnographer. She is interested in how (ascribed) identity characteristics influence team dynamics in the workplace.
+
+For her dissertation, she conducted ethnographic research on the recruitment and training of men from countries in West Asia and Africa as elderly care workers in Germany. Her study explored how their public image as allegedly hypermasculine and “dangerous” men shaped their work experiences, relationships with colleagues, and their positions within teams.
+
+During her doctoral studies, Maike was a fellow at the Max Planck Institute for the Study of Religious and Ethnic Diversity, where she was part of an international team of ethnographers researching care work, migration, and aging. Her research was supported by the Fonds de Recherche du Québec, the Jean Monnet Centre Montréal, and the Waterloo Centre for German Studies at the University of Waterloo, Canada, among others

@@ -1,5 +1,5 @@
 ---
-title: Research Topics
+title: Research
 
 showDate: false
 
