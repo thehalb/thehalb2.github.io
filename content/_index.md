@@ -14,9 +14,9 @@ sections:
         
         Our research group studies **decision making under uncertainty**, such as in the emergency room, to provide a clearer understanding of how decision-making in medical diagnostics and other high-risk areas can be improved.
 
-      cta:
-        label: More on our research
-        url: '/research'
+        <!--Custom spacing-->
+
+        {{% cta cta_link="./research/" cta_text="More about our research →" %}}
 
   - block: markdown
     content:
