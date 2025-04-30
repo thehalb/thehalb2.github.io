@@ -13,9 +13,10 @@ sections:
       text: |
         
         Our research group studies **decision making under uncertainty**, such as in the emergency room, to provide a clearer understanding of how decision-making in medical diagnostics and other high-risk areas can be improved.
-    appearance:
-      font_size: S
 
+      cta:
+        label: More on our research
+        url: '/research'
 
   - block: markdown
     content:
@@ -26,13 +27,4 @@ sections:
     design:
       columns: '1'
 
-
-  - block: markdown
-    content:
-      title:
-      subtitle:
-      text: |
-        {{% cta cta_link="./team/" cta_text="Meet the team →" %}}
-    design:
-      columns: '1'
 ---

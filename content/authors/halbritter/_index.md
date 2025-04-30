@@ -18,6 +18,21 @@ organizations:
   - name: University of Bern
     url: ''
 
+interests:
+  - 
+
+education:
+  courses:
+    - course: MSc in Psychology
+      institution: University of Bern, Switzerland
+      year: 2023 - present
+    - course: Exchange Semester 
+      institution: National Taiwan University, Taiwan
+      year: 2024 - 2025
+    - course: BSc in Psychology
+      institution: University of Graz, Austria
+      year: 2020 - 2023
+
 # Social/Academic Networking
 # For available icons, see: https://docs.hugoblox.com/getting-started/page-builder/#icons
 #   For an email link, use "fas" icon pack, "envelope" icon, and a link in the

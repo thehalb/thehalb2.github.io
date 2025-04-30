@@ -18,6 +18,19 @@ organizations:
   - name: University of Bern
     url: ''
 
+interests:
+  -
+
+education:
+  courses:
+    - course: PhD Psychology
+      institution: University of bern, Switzerland
+      year: 2024 - present
+    - course: MSc in Psychology
+      institution: University of Göttingen, Germany
+    - course: BSc in Psychology
+      institution: University of Göttingen, Germany
+
 # Social/Academic Networking
 # For available icons, see: https://docs.hugoblox.com/getting-started/page-builder/#icons
 #   For an email link, use "fas" icon pack, "envelope" icon, and a link in the
