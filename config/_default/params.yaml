@@ -15,11 +15,11 @@ appearance:
 
 marketing:
   seo:
-    site_type: Organization
+    site_type: ResearchOrganization
     local_business_type: ''
-    org_name: ''
-    description: 'A highly-customizable Hugo research group theme powered by Wowchemy website builder.'
-    twitter: 'GetResearchDev'
+    org_name: 'CoMind Lab'
+    description: 'The CoMind is a Research Group investigating decision making under uncertainty'
+    twitter: ''
   analytics:
     google_analytics: ''
     baidu_tongji: ''
@@ -40,17 +40,18 @@ header:
     show_day_night: true
     show_search: true
     highlight_active_link: false
+    show_theme_chooser: true
 
 # Site footer
 
 footer:
   copyright:
-  notice: '© {year} CoMind Lab.'
-#   license:
-#     enable: true
-#     allow_derivatives: false
-#     share_alike: true
-#     allow_commercial: false
+    notice: '© {year} CoMind Lab, University of Bern.'
+    license:
+      enable: false
+      allow_derivatives: false
+      share_alike: false
+      allow_commercial: false
 
 # Localization
 

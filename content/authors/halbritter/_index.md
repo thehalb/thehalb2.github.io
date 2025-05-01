@@ -59,4 +59,6 @@ highlight_name: false
 user_groups:
   - Team members
 ---
-Theresa Halbritter is a Research Assistant at the CoMind Lab. She is currently a Master´s students at the University of Bern in Psychology.
+University Clinics UPD
+
+Theresa Halbritter is a Research Assistant at the CoMind Lab, where she supports the psychological research. She is currently pursuing a Master’s degree in Psychology at the University of Bern, with a focus on cognitive psychology, perception, and research methods. She is conducting her Master’s thesis at the University Clinics UPD in Bern. Theresa completed her Bachelor’s degree in Psychology at the University of Graz in Austria, where she wrote her thesis in the field of differential psychology. 
