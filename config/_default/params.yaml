@@ -43,10 +43,10 @@ header:
 
 # Site footer
 
- footer:
-   copyright:
-   notice: '© {year} CoMind Lab.'
-#     license:
+footer:
+  copyright:
+  notice: '© {year} CoMind Lab.'
+#   license:
 #     enable: true
 #     allow_derivatives: false
 #     share_alike: true
