@@ -30,7 +30,7 @@ sections:
 
         **February 2025:** Maike Isaac starts her Postdoc at the CoMind Lab. Mara Hofer and Theresa Halbritter join the research group as research assistants.
 
-  - block: feature
+  - block: hugo
     content:
       title: 
       text: |
