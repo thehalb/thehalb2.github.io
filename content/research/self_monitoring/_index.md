@@ -1,7 +1,6 @@
 ---
 title: Self-monitoring
 showDate: false
-date: null
 ---
 
 text
