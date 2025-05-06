@@ -17,20 +17,28 @@ sections:
 
   - block: markdown
     content:
-      title: 
+      title: | 
+        Current project
       text: |
-        Current project: Ethnographic study on team processes in the emergency department.
-
-        {{% cta cta_link="https://www.teams-notfall.org/" cta_text="Learn more here." %}}
+        Ethnographic study on team processes in the emergency department. To learn more about this project click [here](https://www.teams-notfall.org/).
 
   - block: hero
     content:
       title: ""
       text: |
-        <span style="font-size: 0.9rem;">
-        The CoMind Lab is funded by the [Swiss National Science Foundation (SNSF)](https://snf.ch) with a Starting Grant to Prof. Dr. Juliane Kämmer (project number [TMSGI1_218047](https://data.snf.ch/grants/grant/218047)).  
-        The lab is part of the [Diagnostic Quality Lab](http://dxq.ch/) at the [Department of Emergency Medicine](https://notfallmedizin.insel.ch/de/lehre-und-forschung/forschungsschwerpunkte-und-gruppen/diagnostic-quality-lab) at the [University of Bern](https://unibe.ch), Switzerland.
-        </span>
+<span style="font-size: 0.9rem;">
+  The CoMind Lab is funded by the 
+  <a href="https://snf.ch">Swiss National Science Foundation (SNSF)</a>
+  with a Starting Grant to Prof. Dr. Juliane Kämmer (project number 
+  <a href="https://data.snf.ch/grants/grant/218047">TMSGI1_218047</a>).
+  The lab is part of the 
+  <a href="http://dxq.ch/">Diagnostic Quality Lab</a>
+  at the 
+  <a href="https://notfallmedizin.insel.ch/de/lehre-und-forschung/forschungsschwerpunkte-und-gruppen/diagnostic-quality-lab">Department of Emergency Medicine</a> 
+  at the 
+  <a href="https://unibe.ch">University of Bern</a>, Switzerland.
+</span>
+
       image:
         filename: logosnf.jpg
 ---
