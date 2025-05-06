@@ -11,7 +11,7 @@ sections:
       text: |
         Our research group studies **decision making under uncertainty**, such as in the emergency room, to gain a clearer understanding of how medical diagnostics and other high-risk decisions can be improved.
 
-        {{% cta cta_link="./research/" cta_text="More about our research →" %}}
+        {{% cta cta_link="./research/" cta_text="More about our research" %}}
       image:
         filename: landingpage.jpg
 
@@ -20,13 +20,13 @@ sections:
       title: | 
         Current project
       text: |
-        Ethnographic study on team processes in the emergency department. To learn more about this project click [here](https://www.teams-notfall.org/).
+        **Ethnographic study** on team processes in the emergency department. To learn more about this project click [here](https://www.teams-notfall.org/).
 
   - block: hero
     content:
       title: ""
       text: |
-        <span style="font-size: 0.9rem;">
+        <span style="font-size: 0.10rem;">
         The CoMind Lab is funded by the 
         <a href="https://snf.ch">Swiss National Science Foundation (SNSF)</a>
         with a Starting Grant to Prof. Dr. Juliane Kämmer (project number 
