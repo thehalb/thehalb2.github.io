@@ -1,6 +1,7 @@
 ---
 title: Team training
 showDate: false
+date: null
 ---
 
 text

@@ -26,7 +26,7 @@ sections:
     content:
       title: ""
       text: |
-        <span style="font-size: 0.10rem;">
+        <span style="font-size: 0.09rem;">
         The CoMind Lab is funded by the 
         <a href="https://snf.ch">Swiss National Science Foundation (SNSF)</a>
         with a Starting Grant to Prof. Dr. Juliane Kämmer (project number 
