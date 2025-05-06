@@ -16,7 +16,7 @@ role: Postdoctoral Researcher
 # Organizations/Affiliations
 organizations:
   - name: University of Bern
-    url: ''
+    url: 'https://www.unibe.ch/'
 
 interests:
   - Identity-based workplace dynamics

@@ -16,7 +16,7 @@ role: Research Assistant
 # Organizations/Affiliations
 organizations:
   - name: University of Bern
-    url: ''
+    url: 'https://www.unibe.ch/'
 
 interests:
   - Expert fields

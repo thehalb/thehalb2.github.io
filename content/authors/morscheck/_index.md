@@ -16,7 +16,7 @@ role: PhD Candidate
 # Organizations/Affiliations
 organizations:
   - name: University of Bern
-    url: ''
+    url: 'https://www.unibe.ch/'
 
 interests:
   -  Diagnostic decision making in medical teams

@@ -16,7 +16,7 @@ role: SNSF Starting Grant Professor
 # Organizations/Affiliations
 organizations:
   - name: University of Bern
-    url: ''
+    url: 'https://www.unibe.ch/'
 
 interests:
   - decision making in high-risk environments
