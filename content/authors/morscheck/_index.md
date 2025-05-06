@@ -19,17 +19,21 @@ organizations:
     url: ''
 
 interests:
-  -
+  -  Diagnostic decision making in medical teams
+  - Factors influencing team-based diagnosis
+  - Effects of team composition on the diagnostic process and outcomes
 
 education:
   courses:
     - course: PhD Psychology
-      institution: University of bern, Switzerland
+      institution: University of Bern, Switzerland
       year: 2024 - present
     - course: MSc in Psychology
-      institution: University of Göttingen, Germany
+      institution: Georg-August University Göttingen, Germany
+      year: 2022-2024
     - course: BSc in Psychology
-      institution: University of Göttingen, Germany
+      institution: Georg-August University Göttingen, Germany
+      year: 2019-2022
 
 # Social/Academic Networking
 # For available icons, see: https://docs.hugoblox.com/getting-started/page-builder/#icons
@@ -39,6 +43,12 @@ social:
   - icon: envelope
     icon_pack: fas
     link: 'mailto:lara.morscheck@unibe.ch'
+  - icon: linkedin
+    icon_pack: fab
+    link: 'https://www.linkedin.com/in/lara-morscheck'
+  - icon: google-scholar
+    icon_pack: ai
+    link: 'https://scholar.google.com/citations?hl=en&authuser=1&user=Se14uYIAAAAJ'
 
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.

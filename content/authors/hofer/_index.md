@@ -18,6 +18,16 @@ organizations:
   - name: University of Bern
     url: ''
 
+interests:
+  - Expert fields
+  - Knowledge cultures
+  - Power
+
+education:
+  courses:
+    - course: BA in Social Anthropology
+      institution: University of Bern, Switzerland
+      year: 2021 - present
 
 # Social/Academic Networking
 # For available icons, see: https://docs.hugoblox.com/getting-started/page-builder/#icons
@@ -27,6 +37,12 @@ social:
   - icon: envelope
     icon_pack: fas
     link: 'mailto:mara.hofer@unibe.ch'
+  - icon: linkedin
+    icon_pack: fab
+    link: 'https://www.linkedin.com/in/mara-hofer-60b479243/'
+  - icon: cv
+    icon_pack: ai
+    link: files/cv_mara.pdf
 
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
@@ -45,4 +61,5 @@ highlight_name: false
 user_groups:
   - Team members
 ---
-Mara Hofer is a Research Assistant at the CoMind Lab. She is currently a Bachelor´s student at the University of Bern in Social Anthropology.
+Mara Hofer is a student assistant in the ethnography team of the CoMind Lab at the University of Bern. She studies social anthropology at the Department of Social Anthropology and Cultural Studies at the University of Bern. Mara is interested in the construction of knowledge in expert fields and in legitimation processes in hierarchical systems. In her bachelor's thesis, she examined discourses and practices in the context of decolonization processes in Swiss museums. Mara enjoys working with people and texts. From 2021 to 2025, she was a member of the editorial board of the student newspaper at the University of Bern. In 2024 she completed an internship in local journalism at the online medium “Hauptstadt”. From 2022 to 2024 she was a board member of the student body.
+
