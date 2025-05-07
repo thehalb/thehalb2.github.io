@@ -26,11 +26,18 @@ sections:
     design:
       columns: "2"
 
-  - block: markdown
+  - block: features
     content:
-      title: 
-      text: |
-        **Ethnographic study** on team processes in the emergency department. To learn more about this project click [here](https://www.teams-notfall.org/).
+      items:
+        - title: Ethnographic Study
+          text: |
+            Study on team processes in the emergency department.  
+            [Learn more →](https://www.teams-notfall.org/)
+        - title: Cognitive Modeling
+          text: |
+            Cognitive models of medical decision making.  
+            More info coming soon.
+
 
   - block: hero
     content:
