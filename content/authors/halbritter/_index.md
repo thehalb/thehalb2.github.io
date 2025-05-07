@@ -20,12 +20,12 @@ organizations:
 
 interests:
   - Memory and decision-making processes
-  - Neuroimaging 
+  - Neuroimaging methods
   - Neuroplasticity 
 
 education:
   courses:
-    - course: MSc in Psychology
+    - course: MSc Student in Psychology
       institution: University of Bern, Switzerland
       year: 2023 - present
     - course: Exchange Semester 

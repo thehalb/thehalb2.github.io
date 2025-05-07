@@ -17,8 +17,18 @@ sections:
 
   - block: markdown
     content:
-      title: | 
-        Current project
+      title:
+      text: |
+        **Ethnographic study** on team processes in the emergency department.  
+        To learn more about this project click [here](https://www.teams-notfall.org/).
+        
+        Team_dx.
+    design:
+      columns: "2"
+
+  - block: markdown
+    content:
+      title: 
       text: |
         **Ethnographic study** on team processes in the emergency department. To learn more about this project click [here](https://www.teams-notfall.org/).
 
@@ -26,7 +36,7 @@ sections:
     content:
       title: ""
       text: |
-        <span style="font-size: 0.09rem;">
+        <span style="font-size: 0.9rem;">
         The CoMind Lab is funded by the 
         <a href="https://snf.ch">Swiss National Science Foundation (SNSF)</a>
         with a Starting Grant to Prof. Dr. Juliane Kämmer (project number 

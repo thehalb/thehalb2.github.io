@@ -25,9 +25,12 @@ interests:
 
 education:
   courses:
+    - course: MA Student in Social Anthropology
+      institution: University of Bern, Switzerland
+      year: 2025 - present
     - course: BA in Social Anthropology
       institution: University of Bern, Switzerland
-      year: 2021 - present
+      year: 2021 - 2025
 
 # Social/Academic Networking
 # For available icons, see: https://docs.hugoblox.com/getting-started/page-builder/#icons

@@ -19,13 +19,13 @@ organizations:
     url: 'https://www.unibe.ch/'
 
 interests:
-  -  Diagnostic decision making in medical teams
+  - Diagnostic decision making in medical teams
   - Factors influencing team-based diagnosis
   - Effects of team composition on the diagnostic process and outcomes
 
 education:
   courses:
-    - course: PhD Psychology
+    - course: PhD Candidate Psychology
       institution: University of Bern, Switzerland
       year: 2024 - present
     - course: MSc in Psychology
