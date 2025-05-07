@@ -33,10 +33,9 @@ sections:
           text: |
             Study on team processes in the emergency department.  
             [Learn more →](https://www.teams-notfall.org/)
-        - title: Cognitive Modeling
+        - title: Team_dx
           text: |
-            Cognitive models of medical decision making.  
-            More info coming soon.
+            Text..
 
 
   - block: hero
