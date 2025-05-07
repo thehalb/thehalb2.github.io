@@ -33,7 +33,7 @@ sections:
           text: |
             Study on team processes in the emergency department.  
             [Learn more →](https://www.teams-notfall.org/)
-        - title: Team_d
+        - title: Team_dx
           text: |
             Text..
 
