@@ -21,10 +21,9 @@ sections:
     content:
       title: Ongoing study
       text: |
-        **Ethnographic study** on team processes in the emergency department.  
-        To learn more about this project click [here](https://www.teams-notfall.org/).
-        
-        Team_dx.
+        How is teamwork experienced in the diagnostic process of emergency care?  
+        The ethnographic research team at our Lab explores this question through in-depth observations and interviews in Swiss emergency departments.  
+        [Learn more about the project](https://www.teams-notfall.org/)
     design:
       columns: "2"
 
