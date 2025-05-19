@@ -14,10 +14,12 @@ sections:
         {{% cta cta_link="./research/" cta_text="More about our research" %}}
       image:
         filename: landingpage.jpg
+      design:
+        columns: '2'
 
   - block: markdown
     content:
-      title:
+      title: Ongoing study
       text: |
         **Ethnographic study** on team processes in the emergency department.  
         To learn more about this project click [here](https://www.teams-notfall.org/).
@@ -26,17 +28,16 @@ sections:
     design:
       columns: "2"
 
-  - block: features
+  - block: markdown
     content:
       items:
-        - title: Ethnographic Study
+        - title: News
           text: |
-            Study on team processes in the emergency department.  
-            [Learn more →](https://www.teams-notfall.org/)
-        - title: Team_dx
-          text: |
-            Text..
+            **April 2025:** First retreat of the CoMind research group.
 
+            **March 2025:** We are seeking a [Master student](https://notfallmedizin.insel.ch/fileadmin/Notfallzentrum/PDF_Dokumente/Forschung_Div._PDF_Dokumente/Ausschreibung_Masterarbeit_Ethnographie_CoMind_Lab.pdf) for our ethnographic study and a [PhD student](https://notfallmedizin.insel.ch/fileadmin/Notfallzentrum/PDF_Dokumente/Forschung_Div._PDF_Dokumente/CoMind_PhD_student_1.pdf) for our experimental work.
+
+            **February 2025:** Maike Isaac starts her Postdoc at the CoMind Lab. Mara Hofer and Theresa Halbritter join the research group as research assistants.
 
   - block: hero
     content:

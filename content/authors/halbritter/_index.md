@@ -62,4 +62,5 @@ user_groups:
   - Team members
 ---
 Theresa Halbritter is a Research Assistant at the CoMind Lab, where she contributes to ongoing psychological research projects. She is currently completing her Master’s degree in Psychology at the University of Bern, specializing in cognitive psychology, perception, and research methods. She is conducting her Master’s thesis in the field of cognitive neuroscience at the University Hospital of Old Age Psychiatry and Psychotherapy (UPD).
+
 Theresa earned her Bachelor's degree in Psychology from the University of Graz in Austria, where she wrote her thesis in the area of differential psychology. She is particularly interested in how the brain supports cognitive functions such as memory and decision-making.
