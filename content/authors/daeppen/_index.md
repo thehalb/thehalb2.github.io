@@ -1,17 +1,17 @@
 ---
 # Display name
-title: Theresa Halbritter
-weight: 4
+title: Simone Däppen
+weight: 6
 
 # Full Name (for SEO)
-first_name: Theresa
-last_name: Halbritter
+first_name: Simone
+last_name: Däppen
 
 # Is this the primary user of the site?
 superuser: false
 
 # Role/position
-role: Research Assistant
+role: Master Thesis Student
 
 # Organizations/Affiliations
 organizations:
@@ -19,21 +19,16 @@ organizations:
     url: 'https://www.unibe.ch/'
 
 interests:
-  - Memory and decision-making processes
-  - Neuroimaging methods
-  - Neuroplasticity 
+  - 
 
 education:
   courses:
     - course: MSc Student in Psychology
       institution: University of Bern, Switzerland
-      year: 2023 - present
-    - course: Exchange Semester 
-      institution: National Taiwan University, Taiwan
-      year: 2024 - 2025
+      year: 
     - course: BSc in Psychology
-      institution: University of Graz, Austria
-      year: 2020 - 2023
+      institution: University of Bern, Switzerland
+      year: 
 
 # Social/Academic Networking
 # For available icons, see: https://docs.hugoblox.com/getting-started/page-builder/#icons
@@ -42,7 +37,7 @@ education:
 social:
   - icon: envelope
     icon_pack: fas
-    link: 'mailto:theresa.halbritter@unibe.ch'
+    link: 'mailto:simone.daeppen@students.unibe.ch'
 
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
@@ -61,5 +56,3 @@ highlight_name: false
 user_groups:
   - Team members
 ---
-Theresa Halbritter is a Research Assistant at the CoMind Lab, where she contributes to ongoing psychological research projects. She is currently completing her Master’s degree in Psychology at the University of Bern, specializing in cognitive psychology, perception, and research methods. She is conducting her Master’s thesis in the field of cognitive neuroscience at the University Hospital of Old Age Psychiatry and Psychotherapy (UPD).
-Theresa earned her Bachelor's degree in Psychology from the University of Graz in Austria, where she wrote her thesis in the area of differential psychology. She is particularly interested in how the brain supports cognitive functions such as memory and decision-making.
