@@ -22,21 +22,20 @@ sections:
       title: Ongoing study
       text: |
         How is teamwork experienced in the diagnostic process of emergency care?  
-        The ethnographic research team at our Lab explores this question through in-depth observations and interviews in Swiss emergency departments.  
-        [Learn more about the project](https://www.teams-notfall.org/)
+        The ethnographic research team at our lab explores this question through in-depth observations and interviews in Swiss emergency departments.  
+        [Learn more about the team and the current project.](https://www.teams-notfall.org/)
     design:
       columns: "2"
 
   - block: markdown
     content:
-      items:
-        - title: News
-          text: |
-            **April 2025:** First retreat of the CoMind research group.
+      title: News
+      text: |
+         **April 2025:** First retreat of the CoMind research group.
 
-            **March 2025:** We are seeking a [Master student](https://notfallmedizin.insel.ch/fileadmin/Notfallzentrum/PDF_Dokumente/Forschung_Div._PDF_Dokumente/Ausschreibung_Masterarbeit_Ethnographie_CoMind_Lab.pdf) for our ethnographic study and a [PhD student](https://notfallmedizin.insel.ch/fileadmin/Notfallzentrum/PDF_Dokumente/Forschung_Div._PDF_Dokumente/CoMind_PhD_student_1.pdf) for our experimental work.
+         **March 2025:** We are seeking a [Master student](https://notfallmedizin.insel.ch/fileadmin/Notfallzentrum/PDF_Dokumente/Forschung_Div._PDF_Dokumente/Ausschreibung_Masterarbeit_Ethnographie_CoMind_Lab.pdf) for our ethnographic study and a [PhD student](https://notfallmedizin.insel.ch/fileadmin/Notfallzentrum/PDF_Dokumente/Forschung_Div._PDF_Dokumente/CoMind_PhD_student_1.pdf) for our experimental work.
 
-            **February 2025:** Maike Isaac starts her Postdoc at the CoMind Lab. Mara Hofer and Theresa Halbritter join the research group as student research assistants.
+         **February 2025:** Maike Isaac starts her Postdoc at the CoMind Lab. Mara Hofer and Theresa Halbritter join the research group as student research assistants.
 
   - block: hero
     content:
@@ -57,4 +56,15 @@ sections:
 
       image:
         filename: logosnf.jpg
+  - block: contact
+    content:
+    title: Get in Touch
+    text: |
+      Want to collaborate, join the lab, or learn more about our work?  
+      Reach out to us – we're happy to hear from you.
+
+    email: juliane.kaemmer@unibe.ch
+    actions:
+      - label: Full contact page
+        url: /contact/
 ---
