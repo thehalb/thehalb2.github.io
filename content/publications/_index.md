@@ -1,12 +1,13 @@
 ---
 title: Publications
-pager: false
+
+# Listing view
 view: citation
+
+# Optional banner image (relative to `assets/media/` folder).
 banner:
   caption: ''
   image: ''
-design:
-  css_class: title-left
 ---
 
 ## **5 key publications**
