@@ -57,21 +57,4 @@ sections:
       image:
         filename: logosnf.jpg
 
-  - block: contact
-    content:
-      title: Get in Touch
-      text: |
-        Want to collaborate, join the lab, or learn more about our work?  
-        Reach out to us – we're happy to hear from you.
-
-      email: juliane.kaemmer@unibe.ch
-      address:
-        - Department of Emergency Medicine
-        - University of Bern
-        - Switzerland
-      actions:
-        - label: Full contact page
-          url: /contact/
-
-
 ---
