@@ -8,7 +8,6 @@ authors:
 date: '2023-08-01'
 doi: "10.3389/fpsyg.2023.1232331"
 publishDate: '2025-04-09T15:10:00.832388Z'
-publication_types: ["2"]
 
 publication: '*Frontiers in Psychology*'
 
