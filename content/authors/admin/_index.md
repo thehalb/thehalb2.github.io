@@ -19,9 +19,14 @@ organizations:
     url: 'https://www.unibe.ch/'
 
 interests:
-  - decision making in high-risk environments
-  - 
-  - 
+  - Collaborative decision-making
+  - Team dynamics and leadership in healthcare teams
+  - Applications of collective intelligence
+  - Human-AI interaction
+  - Team training and evaluation
+  - Confidence-accuracy calibration
+  - Diagnostic quality
+  - Advice-based decision making
 
 education:
   courses:
@@ -45,9 +50,15 @@ social:
   - icon: google-scholar
     icon_pack: ai
     link: 'https://scholar.google.de/citations?user=S56rRf8AAAAJ&hl=de'
-  - icon: cv
+  - icon: orcid
     icon_pack: ai
-    link: files/cv_juliane.pdf
+    link: 'https://orcid.org/0000-0001-6042-8453'
+  - icon: bluesky
+    icon_pack: fab
+    link: '@julianekaemmer.bsky.social'
+  - icon: researchgate
+    icon_pack: ai
+    link: 'https://www.researchgate.net/profile/Juliane-Kaemmer'
 
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
@@ -72,5 +83,4 @@ Juliane is the group leader of the CoMind Lab and co-leader of the [Diagnostic Q
 
 She obtained her PhD in psychology from the Humboldt University in Berlin and the Max Planck Institute (MPI) for Human Development in 2013. Trained as a psychologist, she has taught and mentored students of various disciplines including psychology, medicine, nursing education and economy at various German universities and the MPI for Human Development. From 2020 until 2022, she conducted research as a Marie Skłodowska-Curie Fellow at the University of Bern. In 2023, she transitionally held the Chair of Social and Communication Psychology at the University of Göttingen, Germany.
 
-**Download** Publication list
-
+Downloads: [Publication list](static/files/Publikationsliste_Juliane.pdf)

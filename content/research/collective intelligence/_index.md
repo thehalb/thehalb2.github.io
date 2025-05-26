@@ -3,9 +3,11 @@ title: Collective Intelligence
 showDate: false
 ---
 
-text
+Can the "wisdom of crowds" improve medical decision-making? Our research demonstrates how collective intelligence can boost diagnostic accuracy and guideline adherence in healthcare.
 
 <!--more-->
+
+Collective intelligence refers to the phenomenon where groups, by pooling individual judgments, often make better decisions than individuals alone. Our studies show that aggregating independent opinions,such as in medical diagnosis or antibiotic prescribing, can lead to greater accuracy and better compliance with clinical guidelines. Especially in fast-paced, complex clinical environments, harnessing collective intelligence can help reduce errors and optimize patient care. These findings highlight the potential of team-based and "wisdom of crowds" approaches in advancing healthcare decision-making.
 
 **Scientific writings**
 

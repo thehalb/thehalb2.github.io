@@ -3,9 +3,11 @@ title: Advice-based decision making and opinion formation
 showDate: false
 ---
 
-text
+How does advice shape decision-making and how do opinions spread within groups? Our research examines how people receive and transmit advice, and how this process influences collective judgments and beliefs.
 
 <!--more-->
+
+Advice plays a central role in both individual and collective decision-making. Our work systematically reviews how people incorporate advice into their choices and which methods are best suited to study these dynamics. We explore how judgments and opinions propagate through social networks, how quickly they are adopted, and what factors drive opinion formation.  These insights offer valuable guidance for designing organizational decision processes and fostering more reflective opinion formation.
 
 **Scientific writings**
 

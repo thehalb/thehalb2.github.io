@@ -3,9 +3,11 @@ title: Team training
 showDate: false
 ---
 
-text
+How can innovative training methods enhance teamwork and performance in healthcare? Our research evaluates new approaches such as virtual reality and objective performance measures to advance team training in clinical settings.
 
 <!--more-->
+
+Effective team training is vital for safe and high-quality healthcare. Our studies assess the acceptance, feasibility, and learning outcomes of interprofessional team training using virtual reality (VR) simulations. We also validate established teamwork assessment tools in VR environments and explore objective measures for evaluating team performance. By leveraging advanced technologies and evidence-based assessment methods, our research aims to optimize team training, foster interprofessional collaboration, and ultimately improve patient care.
 
 **Scientific writings**
 

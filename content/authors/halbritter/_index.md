@@ -19,9 +19,9 @@ organizations:
     url: 'https://www.unibe.ch/'
 
 interests:
-  - Memory and decision-making processes
   - Neuroimaging methods
   - Neuroplasticity 
+  - Memory and decision-making processes
 
 education:
   courses:
@@ -61,6 +61,6 @@ highlight_name: false
 user_groups:
   - Team members
 ---
-Theresa Halbritter is a Research Assistant at the CoMind Lab, where she contributes to ongoing psychological research projects. She is currently completing her Master’s degree in Psychology at the University of Bern, specializing in cognitive psychology, perception, and research methods. She is conducting her Master’s thesis in the field of cognitive neuroscience at the University Hospital of Old Age Psychiatry and Psychotherapy (UPD).
+Theresa Halbritter is a student research assistant at the CoMind Lab, where she contributes to ongoing research in psychology. She is currently pursuing a Master’s degree in Psychology at the University of Bern, specializing in cognitive psychology, perception, and research methodology. As part of her studies, she is conducting her Master’s thesis in cognitive neuroscience at the University Hospital of Old Age Psychiatry and Psychotherapy (UPD).
 
-Theresa earned her Bachelor's degree in Psychology from the University of Graz in Austria, where she wrote her thesis in the area of differential psychology. She is particularly interested in how the brain supports cognitive functions such as memory and decision-making.
+She earned her Bachelor's degree in Psychology from the University of Graz in Austria, where she wrote her thesis on trust in artificial intelligence. Her research interests focus on the neural basis of cognitive functions such as memory and decision-making.

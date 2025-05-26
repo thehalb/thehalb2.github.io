@@ -3,9 +3,11 @@ title: Diagnostic quality
 showDate: false
 ---
 
-text
+How can we improve the accuracy and reliability of medical diagnoses to enhance patient safety? Our research investigates the factors influencing diagnostic quality, the consequences of diagnostic errors, and effective strategies to reduce risks in clinical practice.
 
 <!--more-->
+
+Diagnostic quality is a cornerstone of patient safety and effective healthcare delivery. Our studies examine how diagnostic errors impact patient outcomes, including increased mortality and prolonged hospital stays, particularly in emergency settings. We explore the roles of patients, physicians, and contextual factors in driving diagnostic resource use and identify predictors for diagnostic changes and non-specific diagnoses. Interventions such as simulation-based training and the use of diagnostic checklists have shown promise in reducing errors and improving detection of in-hospital hazards. By understanding and addressing the multifaceted determinants of diagnostic quality, we aim to support safer clinical environments and better patient care.
 
 **Scientific writings**
 

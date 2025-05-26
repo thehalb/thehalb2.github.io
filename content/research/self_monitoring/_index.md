@@ -3,10 +3,11 @@ title: Self-monitoring
 showDate: false
 ---
 
-text
+How accurately can healthcare professionals assess their own performance, and what factors influence self-monitoring? Our research delves into the mechanisms and effectiveness of self-monitoring in clinical teams and individual practitioners.
 
 <!--more-->
 
+Self-monitoring is a critical skill for clinicians, influencing both individual learning and team performance. Our research examines how accurately healthcare providers can evaluate their own clinical decisions and actions, and whether experience, ability, or case complexity affect this accuracy. We also explore the development of self-monitoring skills throughout medical education, finding that improvement is not always guaranteed. Observational studies in ad hoc healthcare teams further reveal the dynamics of self-assessment in high-pressure environments. Understanding the strengths and limitations of self-monitoring is essential for designing educational interventions and promoting reflective practice in medicine.
 **Scientific writings**
 
 - Hautz, S. C., Oberholzer, D. L., Freytag, J., Exadaktylos, A., Kämmer, J. E., Sauter, T. C., & Hautz, W. E. (2020). An observational study of self-monitoring in ad hoc health care teams. BMC Medical Education, 20(1), Article 201. https://doi.org/10.1186/s12909-020-02115-3
