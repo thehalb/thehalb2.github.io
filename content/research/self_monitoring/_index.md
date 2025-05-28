@@ -1,5 +1,9 @@
 ---
 title: Self-monitoring
+image:
+  filename: "featured.jpg"
+  caption: "© UKN"
+
 ---
 
 How accurately can healthcare professionals assess their own performance, and what factors influence self-monitoring? Our research delves into the mechanisms and effectiveness of self-monitoring in clinical teams and individual practitioners.
