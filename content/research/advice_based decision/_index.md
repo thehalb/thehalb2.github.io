@@ -1,7 +1,5 @@
 ---
 title: Advice-based decision making and opinion formation
-date: 2023-08-01
-showDate: false
 ---
 
 How does advice shape decision-making and how do opinions spread within groups? Our research examines how people receive and transmit advice, and how this process influences collective judgments and beliefs.

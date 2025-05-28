@@ -26,8 +26,8 @@ education:
     - course: MSc Student in Psychology
       institution: University of Bern, Switzerland
       year: 
-    - course: BSc in Psychology
-      institution: University of Bern, Switzerland
+    - course: BSc in Nursing (NTE)
+      institution: 
       year: 
 
 # Social/Academic Networking

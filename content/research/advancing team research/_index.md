@@ -1,7 +1,5 @@
 ---
 title: Advancing (team) research and education
-date: 2023-08-01
-showDate: false
 ---
 
 Can innovative team research and modern educational approaches sustainably improve collaboration in healthcare? Our work explores how new theoretical perspectives and training concepts can advance teamwork and learning in medical contexts.
