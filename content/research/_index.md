@@ -1,6 +1,5 @@
 ---
 title: Research
-
 showDate: false
 
 # Listing view
