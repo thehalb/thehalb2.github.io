@@ -1,6 +1,7 @@
 ---
 title: Self-monitoring
-date: ""
+date: 2023-08-01
+showDate: false
 ---
 
 How accurately can healthcare professionals assess their own performance, and what factors influence self-monitoring? Our research delves into the mechanisms and effectiveness of self-monitoring in clinical teams and individual practitioners.

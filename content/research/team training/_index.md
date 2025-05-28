@@ -1,6 +1,7 @@
 ---
 title: Team training
-date: ""
+date: 2023-08-01
+showDate: false
 ---
 
 How can innovative training methods enhance teamwork and performance in healthcare? Our research evaluates new approaches such as virtual reality and objective performance measures to advance team training in clinical settings.

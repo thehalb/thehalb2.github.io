@@ -1,5 +1,6 @@
 ---
 title: Collective Intelligence
+date: 2023-08-01
 showDate: false
 ---
 

@@ -1,5 +1,6 @@
 ---
 title: Advice-based decision making and opinion formation
+date: 2023-08-01
 showDate: false
 ---
 

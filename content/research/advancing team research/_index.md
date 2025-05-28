@@ -1,5 +1,6 @@
 ---
 title: Advancing (team) research and education
+date: 2023-08-01
 showDate: false
 ---
 
