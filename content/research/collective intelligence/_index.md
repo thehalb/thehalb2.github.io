@@ -1,7 +1,5 @@
 ---
 title: Collective Intelligence
-date: 2023-08-01
-showDate: false
 ---
 
 Can the "wisdom of crowds" improve medical decision-making? Our research demonstrates how collective intelligence can boost diagnostic accuracy and guideline adherence in healthcare.

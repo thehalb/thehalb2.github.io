@@ -1,7 +1,5 @@
 ---
 title: Diagnostic team decision making
-date: 2023-08-01
-showDate: false
 ---
 
 Can teamwork in medicine really reduce diagnostic errors—or does it sometimes make things worse? Our research uncovers the surprising conditions under which collaboration helps (or hinders) medical decision-making.
