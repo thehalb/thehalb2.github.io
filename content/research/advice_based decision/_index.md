@@ -1,5 +1,8 @@
 ---
 title: Advice-based decision making and opinion formation
+image:
+  filename: "featured.jpg"
+  caption: "© UKN"
 ---
 
 How does advice shape decision-making and how do opinions spread within groups? Our research examines how people receive and transmit advice, and how this process influences collective judgments and beliefs.

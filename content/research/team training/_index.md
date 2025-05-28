@@ -1,5 +1,8 @@
 ---
 title: Team training
+image:
+  filename: "featured.jpg"
+  caption: "© UKN"
 ---
 
 How can innovative training methods enhance teamwork and performance in healthcare? Our research evaluates new approaches such as virtual reality and objective performance measures to advance team training in clinical settings.

@@ -19,7 +19,9 @@ organizations:
     url: 'https://www.unibe.ch/'
 
 interests:
-  - 
+  - Team processes
+  - Qualitative research methods
+  - Ethnographic research
 
 education:
   courses:

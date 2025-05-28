@@ -1,5 +1,8 @@
 ---
 title: Collective Intelligence
+image:
+  filename: "featured.jpg"
+  caption: "© UKN"
 ---
 
 Can the "wisdom of crowds" improve medical decision-making? Our research demonstrates how collective intelligence can boost diagnostic accuracy and guideline adherence in healthcare.

@@ -1,5 +1,8 @@
 ---
 title: Advancing (team) research and education
+image:
+  filename: "featured.jpg"
+  caption: "© Shutterstock"
 ---
 
 Can innovative team research and modern educational approaches sustainably improve collaboration in healthcare? Our work explores how new theoretical perspectives and training concepts can advance teamwork and learning in medical contexts.

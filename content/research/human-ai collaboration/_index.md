@@ -1,5 +1,8 @@
 ---
 title: Human-AI collaboration
+image:
+  filename: "featured.jpg"
+  caption: "© Shutterstock"
 ---
 
 What are the effects of integrating artificial intelligence into clinical decision-making? Our research explores how collaboration between humans and AI systems can shape diagnostic processes and outcomes in medical education and practice.

@@ -1,5 +1,8 @@
 ---
 title: Diagnostic quality
+image:
+  filename: "featured.jpg"
+  caption: "© UKN"
 ---
 
 How can we improve the accuracy and reliability of medical diagnoses to enhance patient safety? Our research investigates the factors influencing diagnostic quality, the consequences of diagnostic errors, and effective strategies to reduce risks in clinical practice.

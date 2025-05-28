@@ -1,5 +1,8 @@
 ---
 title: Diagnostic team decision making
+image:
+  filename: "featured.jpg"
+  caption: "© UKN"
 ---
 
 Can teamwork in medicine really reduce diagnostic errors—or does it sometimes make things worse? Our research uncovers the surprising conditions under which collaboration helps (or hinders) medical decision-making.
