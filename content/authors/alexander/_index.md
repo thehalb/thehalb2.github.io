@@ -19,16 +19,18 @@ organizations:
     url: 'https://www.unibe.ch/'
 
 interests:
-  - 
+  - Qualitative research methods
+  - Sociology of work
+  - Social inequalities
 
 education:
   courses:
     - course: MA Student in Sociology
       institution: University of Bern, Switzerland
-      year: 
-    - course: BA in Sociology
+      year: 2025 - present
+    - course: BA in Social Sciences
       institution: University of Bern, Switzerland
-      year: 
+      year: 2021 - 2024
 
 # Social/Academic Networking
 # For available icons, see: https://docs.hugoblox.com/getting-started/page-builder/#icons

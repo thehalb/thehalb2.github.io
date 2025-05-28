@@ -39,7 +39,7 @@ header:
     show_language: false
     show_day_night: true
     show_search: true
-    highlight_active_link: false
+    highlight_active_link: true
     show_theme_chooser: true
 
 # Site footer
@@ -56,8 +56,8 @@ footer:
 # Localization
 
 locale:
-  date_format: 'Jan 2, 2006'
-  time_format: '3:04 PM'
+  date_format: ''
+  time_format: ''
   address_format: en-us
 
 # Site features
