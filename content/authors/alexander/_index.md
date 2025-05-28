@@ -56,3 +56,5 @@ highlight_name: false
 user_groups:
   - Team members
 ---
+After completing her bachelor's degree in social sciences, Danaé is currently studying for a master's degree in sociology at the Institute of Sociology at the University of Bern. Danaé is interested in qualitative research methods and their application to research various sociological questions. In particular, Danaé is interested in the sociology of work and in researching inequalities that manifest themselves both in the construction of professions and in everyday working life itself. In her Bachelor's thesis, she investigated the question of why women in Switzerland continue to work after the reference age. Alongside her studies, Danaé worked as an assistant at the Department of Social Sciences and the Institute of Sociology at the University of Bern. As a student assistant, Danaé supports the CoMind Lab's ethnography team with data management and data analysis.
+

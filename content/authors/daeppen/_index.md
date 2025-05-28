@@ -56,3 +56,5 @@ highlight_name: false
 user_groups:
   - Team members
 ---
+Simone is studying for a Master's degree in psychology on the second educational path with a focus on clinical psychology and psychotherapy at the University of Bern. As a qualified nurse FH, she has many years of professional experience in various specialist areas and institutions. In her Bachelor's thesis, she investigated the “Influence of action-regulation-based online interventions on professional self-confidence”. She completed her one-year Master's psychology internship at the Bern University Counseling Center of the Department of Education and Culture. As a nurse with her own work and team experience, she finds it exciting to ethnographically examine team processes in emergency medicine. In addition, working in the ethnography team offers her the opportunity to gain in-depth insights into research. She is therefore delighted to be writing her Master's thesis as part of this project and to be able to explore qualitative research methods in depth, both theoretically and practically.
+
