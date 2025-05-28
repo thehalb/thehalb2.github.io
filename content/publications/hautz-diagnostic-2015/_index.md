@@ -16,6 +16,8 @@ citation: false
 links:
 - name: URL
   url: http://jama.jamanetwork.com/article.aspx?doi=10.1001/jama.2014.15770
+- name: PDF
+  url: /publication4.pdf
 ---
 
 **Excerpt from the research letter**
