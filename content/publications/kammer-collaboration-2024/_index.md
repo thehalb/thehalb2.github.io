@@ -13,7 +13,7 @@ date: '2024-01-01'
 publishDate: '2025-04-09T15:10:00.824655Z'
 publication_types:
 - article-journal
-publication: '*Journal of Behavioral Decision Making*'
+publication: 'Journal of Behavioral Decision Making'
 doi: 10.1002/bdm.2357
 links:
 - name: URL
