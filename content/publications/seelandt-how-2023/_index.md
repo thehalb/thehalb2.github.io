@@ -9,7 +9,7 @@ date: '2023-08-01'
 doi: "10.3389/fpsyg.2023.1232331"
 publishDate: '2025-04-09T15:10:00.832388Z'
 
-publication:"Frontiers in Psychology"
+publication: "Frontiers in Psychology"
 
 
 abstract: The aim of this paper is to inspire team research to apply diverse and
