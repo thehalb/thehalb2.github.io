@@ -11,7 +11,8 @@ publishDate: '2025-04-09T15:10:00.810708Z'
 publication_types:
 - article-journal
 publication: '*JAMA*'
-doi: 10.1001/jama.2014.15770
+citation: false
+#doi: 10.1001/jama.2014.15770
 links:
 - name: URL
   url: http://jama.jamanetwork.com/article.aspx?doi=10.1001/jama.2014.15770
