@@ -1,7 +1,7 @@
 ---
 title: Ethnography
-date: 2023-08-01
-showDate: false
+layout: list
+date_format: ""
 ---
 
 text
