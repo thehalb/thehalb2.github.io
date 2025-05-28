@@ -16,7 +16,7 @@ abstract: The aim of this paper is to inspire team research to apply diverse and
   unconventional perspectives to study team dynamics and performance in healthcare
   settings. To illustrate that using multiple perspectives can yield valuable insights,
   we examine a segment of a team interaction during a heart-surgery, using five distinct
-  interdisciplinary perspectives known from small group research: the psychodynamic,
+  interdisciplinary perspectives known from small group research, the psychodynamic,
   functional, conflict-power-status, temporal, and social identity perspectives. We
   briefly describe each theoretical perspective, discuss its application to study
   healthcare teams, and present possible research questions for the segment at hand
